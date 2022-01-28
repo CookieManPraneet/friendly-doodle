@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+} 
+#family_member_image{
+    height: auto;
+    width: auto;
+}
+#button{
+    width: 100px;
+    height: 50px;
+}
